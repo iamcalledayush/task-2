@@ -1,0 +1,399 @@
+item_name,description,category,intended_use,indoor_or_outdoor,portable,size
+Air Compressor,"A device that converts power into pressurized air, often used for inflating tires, powering tools, or cleaning.",Tool,"Used for inflating tires, powering tools, or cleaning.",Both,Yes,Medium
+Air Conditioner,A machine that cools and dehumidifies air to provide comfort in indoor spaces.,Electronics,Used to cool and dehumidify indoor air.,Indoor,No,Large
+Air Fryer,"A countertop appliance that cooks food by circulating hot air, mimicking frying without oil.",Kitchen Appliance,Cooks food by circulating hot air.,Indoor,Yes,Medium
+Air Hockey Table,"A flat, smooth table with an air-powered surface for playing air hockey with paddles and a puck.",Game Equipment,For playing air hockey.,Indoor,No,Large
+Air Purifier,"A device that removes contaminants like dust, pollen, and odors from the air, improving indoor air quality.",Electronics,Improving indoor air quality.,Indoor,Yes,Medium
+Aquarium,"A glass or acrylic container used to house fish and aquatic plants, often decorative.",Pet Supplies,Used to house fish and aquatic plants.,Indoor,No,Medium
+Arcade Machine,"A coin-operated machine featuring video or pinball games, typically found in arcades or entertainment centers.",Entertainment,Used for playing video or pinball games.,Indoor,No,Large
+Arm Chair,"A comfortable, padded chair with armrests, often used in living rooms or offices.",Furniture,Used for seating in living rooms or offices.,Indoor,No,Medium
+Armoire,"A tall, freestanding cabinet used for storing clothes, linens, or other items.",Furniture,"Used for storing clothes, linens, or other items.",Indoor,No,Large
+Artificial Christmas Tree,"A reusable, synthetic tree designed to mimic a real Christmas tree for holiday decorations.",Holiday Decoration,Used for holiday decorations.,Indoor,Yes,Medium
+Artificial Plant,"A lifelike, decorative plant made from synthetic materials, requiring no maintenance.",Home Decor,Used for decoration.,Indoor,Yes,Medium
+Baby Bassinet,"A small, portable bed for infants, typically with a soft, cushioned interior.",Furniture,A bed for infants.,Indoor,Yes,Small
+Baby Bath Seat,"A seat designed to keep babies secure while bathing, often with suction cups for stability.",Baby Product,To keep babies secure while bathing.,Indoor,Yes,Small
+Baby Bouncer,"A lightweight seat for babies that rocks or bounces, often to soothe or entertain.",Baby Gear,Used to soothe or entertain babies.,Indoor,Yes,Small
+Baby Chair,"A small chair designed for babies or toddlers, sometimes with a tray for feeding.",Furniture,Designed for babies or toddlers to sit.,Indoor,Yes,Small
+Baby Cradle,"A small, rocking bed for infants, often used for sleeping.",Furniture,Used for sleeping infants.,Indoor,Yes,Small
+Baby Crib,"A large, sturdy bed for infants with slatted sides to keep the baby safe while sleeping.",Furniture,Used for infants to sleep safely.,Indoor,No,Large
+Baby Gate,"A safety barrier used to block off areas in a home, preventing babies from accessing unsafe spaces.",Safety Equipment,"Used to block off areas in a home, preventing babies from accessing unsafe spaces.",Indoor,Yes,Medium
+Baby Mattress,"A firm, cushioned mattress designed to fit cribs or other baby beds.",Furniture,Designed for use in cribs or baby beds.,Indoor,Yes,Medium
+Baby Playpen,"A portable, enclosed area for babies to play safely.",Baby Products,A safe area for babies to play.,Indoor,Yes,Medium
+Baby Ride On Car,A small car-shaped toy that children can sit on and propel themselves or ride with motorized assistance.,Toy,A toy for children to ride on.,Both,Yes,Small
+Baby Swing,"A seat for infants that swings back and forth, often with soothing motions and sounds.",Baby Product,A seat for infants that swings back and forth.,Indoor,Yes,Medium
+Baby Walker,A frame on wheels that helps babies learn to walk by supporting them as they move.,Baby Product,Helps babies learn to walk.,Indoor,Yes,Medium
+Bakers Rack,"A multi-tiered shelving unit, often used in kitchens to store and display items like dishes or plants.",Furniture,Used to store and display items like dishes or plants.,Indoor,No,Medium
+Balance Beam,"A narrow, elevated platform used for gymnastics and balance training.",Sports Equipment,Used for gymnastics and balance training.,Indoor,No,Large
+Banquet Table,"A large, foldable table typically used for events, catering, or conferences.",Furniture,"Used for events, catering, or conferences.",Both,Yes,Large
+Bar,"A counter or table used for serving and preparing drinks, often in home or commercial settings.",Furniture,Used for serving and preparing drinks.,Both,No,Large
+Bar Cabinet,"A furniture piece designed to store bottles, glasses, and bar tools, often featuring shelves or compartments.",Furniture,"Designed to store bottles, glasses, and bar tools.",Indoor,No,Medium
+Bar Cart,"A rolling cart used to serve and store beverages, glasses, and bar accessories.",Furniture,"Used to serve and store beverages, glasses, and bar accessories.",Indoor,Yes,Medium
+Bar Stool,"A tall stool with or without a backrest, commonly used at bars or counters.",Furniture,Used at bars or counters.,Indoor,Yes,Medium
+Bar table,"A tall table designed for seating with bar stools, commonly used in dining or bar areas.",Furniture,Designed for seating with bar stools.,Indoor,No,Medium
+Barbecue Grill,"A cooking appliance used outdoors for grilling food, typically powered by charcoal, gas, or electricity.",Outdoor Appliance,Used for grilling food outdoors.,Outdoor,Yes,Medium
+Barbell,"A long bar with adjustable weights on both ends, used for weightlifting and strength training.",Fitness Equipment,Used for weightlifting and strength training.,Indoor,No,Large
+Barber Chair,"A reclining chair with adjustable height, used in barbershops for haircuts and grooming.",Furniture,Used for haircuts and grooming.,Indoor,No,Large
+Baseball Bat,"A solid, cylindrical stick used in baseball to hit the ball during play.",Sports Equipment,Used to hit the ball during baseball play.,Outdoor,Yes,Medium
+Basket,"A container made of woven materials, used for storage or carrying items.",Storage,Used for storage or carrying items.,Both,Yes,Medium
+Basketball,"An inflated ball used in the game of basketball, designed for bouncing and shooting into hoops.",Sports Equipment,Used for playing basketball.,Both,Yes,Large
+Basketball Hoop,"A metal ring with a net attached, used as the target for scoring points in basketball.",Sports Equipment,Used as the target for scoring points in basketball.,Both,No,Large
+Bathroom Cabinet,"A storage unit for toiletries, often mounted on or under a bathroom sink.",Furniture,Used for storing toiletries.,Indoor,No,Medium
+Bathroom Sink,"A basin installed in a bathroom, used for washing hands and face.",Bathroom Fixture,Used for washing hands and face.,Indoor,No,Medium
+Bathtub,"A large container for bathing, often installed in bathrooms.",Bathroom Fixture,Used for bathing.,Indoor,No,Large
+Bean Bag Chair,"A soft, cushion-like chair filled with beans or foam, designed to conform to the sitter’s shape.",Furniture,A chair for sitting comfortably.,Indoor,Yes,Medium
+Bed Frame,"A structure that supports a mattress and raises it off the floor, often with a headboard and footboard.",Furniture,Supports a mattress and raises it off the floor.,Indoor,No,Large
+Bedside Table,"A small table placed beside a bed for holding lamps, books, or personal items.",Furniture,"A table for holding lamps, books, or personal items beside a bed.",Indoor,Yes,Small
+Bench,"A long seat designed to accommodate multiple people, often found in parks or dining areas.",Furniture,A long seat for multiple people.,Both,No,Large
+Benchtop Jointer,A woodworking tool used to create flat surfaces along the edges of wooden boards.,Woodworking Tool,Used to create flat surfaces along the edges of wooden boards.,Indoor,No,Medium
+Bicycle,"A two-wheeled vehicle powered by pedaling, often used for transportation or recreation.",Transportation,Used for transportation or recreation.,Outdoor,Yes,Medium
+Bike Rack,"A structure for storing or securing bicycles, often mounted on vehicles or walls.",Outdoor Equipment,Used for storing or securing bicycles.,Both,Yes,Medium
+Bird Cage,"An enclosure for housing pet birds, designed to provide both safety and space.",Pet Supplies,An enclosure for housing pet birds.,Indoor,Yes,Medium
+Bistro Set,"A small table with two matching chairs, commonly used for outdoor dining or patios.",Furniture,Used for outdoor dining or patios.,Outdoor,Yes,Small
+Blender,"A kitchen appliance used to mix, puree, or emulsify food and beverages.",Kitchen Appliance,"Used to mix, puree, or emulsify food and beverages.",Indoor,Yes,Medium
+Blinds / Shades,"Window coverings made of horizontal or vertical slats or fabric, used to block light or provide privacy.",Home Decor,Used to block light or provide privacy.,Indoor,No,Medium
+Bookcase,"A piece of furniture with shelves, used for storing books and decorative items.",Furniture,Used for storing books and decorative items.,Indoor,No,Large
+Bookshelf ,A set of horizontal shelves designed specifically to hold books.,Furniture,Designed to hold books.,Indoor,No,Medium
+Bow Flex Exercise Machine,A home gym machine using flexible rods for resistance training.,Fitness Equipment,Used for resistance training.,Indoor,No,Large
+Bricks,"Solid blocks made of clay or concrete, used in construction.",Construction Material,Used in construction.,Both,No,Medium
+Broom,"A cleaning tool with a long handle and bristles, used for sweeping floors.",Cleaning Tool,Used for sweeping floors.,Indoor,Yes,Medium
+Bucket,"A round, open container with a handle, used for carrying liquids or materials.",Container,Used for carrying liquids or materials.,Both,Yes,Medium
+Bunk Bed,"A bed frame with two stacked beds, designed to save space.",Furniture,Designed to save space in a bedroom.,Indoor,No,Large
+Bureau,"A piece of furniture with drawers, used for storing clothes or personal items.",Furniture,Used for storing clothes or personal items.,Indoor,No,Medium
+Butcher Block Table,A sturdy wooden table often used in kitchens for food preparation.,Furniture,Used in kitchens for food preparation.,Indoor,No,Medium
+Cabinet,"A storage unit with doors or drawers, used for organizing household items.",Furniture,Used for organizing household items.,Indoor,No,Medium
+Camera Tripod,A three-legged stand used to stabilize cameras for photography or videography.,Electronics,Used to stabilize cameras for photography or videography.,Both,Yes,Medium
+Camping Bed,"A portable bed designed for outdoor use, often foldable and lightweight.",Outdoor Equipment,Primarily used for sleeping outdoors.,Outdoor,Yes,Medium
+Camping Chair,A foldable chair made for outdoor activities like camping or picnics.,Furniture,Made for outdoor activities like camping or picnics.,Outdoor,Yes,Medium
+Candle Holder,A decorative item designed to hold candles upright.,Home Decor,Holds candles upright.,Indoor,Yes,Small
+Cane,"A walking aid used for support or balance, typically made of wood or metal.",Mobility Aid,Used for support or balance while walking.,Both,Yes,Medium
+Canoe,"A narrow, lightweight boat, often propelled with a single-bladed paddle.",Watercraft,Used for paddling on water.,Outdoor,Yes,Medium
+Canopy,"A fabric covering supported by poles, used for shade or shelter.",Outdoor Equipment,Used for shade or shelter.,Outdoor,Yes,Large
+Carpet,"A large, soft floor covering, often made of woven fabric, used to enhance comfort and aesthetics.",Home Decor,Used to enhance comfort and aesthetics.,Indoor,No,Large
+Carpet Cleaner,A machine or device used for deep cleaning carpets and removing stains.,Cleaning Appliance,Used for deep cleaning carpets and removing stains.,Indoor,Yes,Medium
+Cart,"A wheeled structure used for carrying or transporting goods, often pushed or pulled by hand.",Transport Equipment,Used for carrying or transporting goods.,Both,Yes,Medium
+Cat Tree,"A multi-level structure designed for cats to climb, scratch, and play.",Pet Furniture,"Designed for cats to climb, scratch, and play.",Indoor,No,Large
+CD Rack,A storage unit designed to organize and hold compact discs (CDs).,Furniture,Organize and hold compact discs.,Indoor,Yes,Medium
+Ceiling Fan,"A fan mounted on the ceiling, used for air circulation and cooling.",Home Appliance,Used for air circulation and cooling.,Indoor,No,Medium
+Ceiling Light,"A light fixture installed on the ceiling, providing overhead illumination.",Lighting,Provides overhead illumination.,Indoor,No,Medium
+Cement Block,"A rectangular block made of cement, used in construction.",Construction Material,Used in construction.,Both,No,Large
+Ceramic Tile,"A durable material used for flooring, walls, or countertops, made of baked clay.",Building Material,"Used for flooring, walls, or countertops.",Both,No,Medium
+Chain,"A series of connected metal links, used for securing, towing, or lifting.",Hardware,"Used for securing, towing, or lifting.",Both,Yes,Medium
+Chalkboard,"A smooth, dark surface used for writing or drawing with chalk.",Office Supplies,Used for writing or drawing with chalk.,Indoor,Yes,Medium
+Chandelier,"A decorative ceiling-mounted light fixture, often with multiple arms and light sources.",Lighting,Used for decorative ceiling lighting.,Indoor,No,Large
+Changing table,"A table designed for changing baby diapers, usually with storage for supplies.",Furniture,Used for changing baby diapers.,Indoor,No,Medium
+Chest,"A large, rectangular storage box, often used for clothes, linens, or keepsakes.",Furniture,"Used for storing clothes, linens, or keepsakes.",Indoor,No,Large
+Chest Freezer,"A horizontal freezer with a lid that opens from the top, used for storing frozen items in bulk.",Appliance,Used for storing frozen items in bulk.,Indoor,No,Large
+Chest of Drawers,A furniture piece with stacked horizontal drawers for storing clothes or personal items.,Furniture,Used for storing clothes or personal items.,Indoor,No,Medium
+Child Car Seat,A safety seat designed to protect children while traveling in vehicles.,Child Safety,Protect children while traveling in vehicles.,Indoor,Yes,Medium
+China Cabinet,"A glass-fronted cabinet used to display and store fine china, dishes, or collectibles.",Furniture,"Used to display and store fine china, dishes, or collectibles.",Indoor,No,Large
+Clothes Rack,A freestanding or wall-mounted structure used to hang clothing for storage or drying.,Furniture,Used to hang clothing for storage or drying.,Indoor,Yes,Medium
+Cocktail Table,"A low table placed in front of a sofa, often used for serving drinks or snacks.",Furniture,Used for serving drinks or snacks.,Indoor,No,Medium
+Coffee Maker,A kitchen appliance used to brew coffee by dripping water through coffee grounds.,Kitchen Appliance,Used to brew coffee.,Indoor,Yes,Medium
+Coffee Table,"A low table designed for placement in front of a sofa, often used for magazines or decor.",Furniture,Designed for placement in front of a sofa.,Indoor,No,Medium
+Computer Monitor,A screen used to display visual output from a computer.,Electronics,Used to display visual output from a computer.,Indoor,No,Medium
+Computer Rack,A frame or enclosure used to organize and store servers or computer equipment.,Electronics,Used to organize and store servers or computer equipment.,Indoor,No,Large
+Conference Table,"A large table designed for meetings or group discussions, often found in office spaces.",Furniture,Designed for meetings or group discussions.,Indoor,No,Large
+Console Table ,"A narrow table placed against a wall or behind a sofa, often used for decor or storage.",Furniture,Used for decor or storage.,Indoor,No,Medium
+Console TV,"An older television model encased in a cabinet-style frame, often with built-in storage.",Electronics,Used for watching television.,Indoor,No,Large
+Cooler,"An insulated container used to keep food and beverages cool, often used for picnics or camping.",Outdoor Equipment,Used to keep food and beverages cool.,Outdoor,Yes,Medium
+Countertop,"A flat surface used for preparing food, typically found in kitchens or bathrooms.",Furniture,Used for preparing food.,Indoor,No,Large
+Credenza,"A low, long cabinet used for storage in dining rooms, offices, or living rooms.",Furniture,"Used for storage in dining rooms, offices, or living rooms.",Indoor,No,Large
+Cubicule,"A small, semi-enclosed workspace, often used in offices for individual employees.",Furniture,Used in offices for individual employees.,Indoor,No,Small
+Curio Cabinet,"A glass-fronted cabinet used to display collectibles, keepsakes, or decorative items.",Furniture,"Used to display collectibles, keepsakes, or decorative items.",Indoor,No,Medium
+Curtain,"A fabric panel hung over windows for privacy, decoration, or to block light.",Home Decor,"Used for privacy, decoration, or to block light.",Indoor,Yes,Medium
+Curtain Rod,A horizontal rod used to hang and support curtains over windows or doors.,Home Decor,Used to hang and support curtains over windows or doors.,Indoor,No,Medium
+Deck Chair,"A lightweight, foldable chair designed for outdoor relaxation on decks or patios.",Furniture,Designed for outdoor relaxation on decks or patios.,Outdoor,Yes,Medium
+Desk,"A table designed for working or studying, often with drawers or compartments for storage.",Furniture,Designed for working or studying.,Indoor,No,Medium
+Desk Chair,"A chair designed for use at a desk, often ergonomic and adjustable.",Furniture,Designed for use at a desk.,Indoor,No,Medium
+Desktop Computer,"A personal computer designed to be used on a desk, often with a separate monitor, keyboard, and mouse.",Electronics,Used for personal computing tasks.,Indoor,No,Medium
+Dining Chair,"A chair used at a dining table, typically designed for comfort during meals.",Furniture,Used at a dining table for comfort during meals.,Indoor,Yes,Medium
+Dining Table,"A table designed for meals, often with enough seating for multiple people.",Furniture,Designed for meals,Indoor,No,Large
+Dishwasher,"A kitchen appliance used to clean dishes, utensils, and cookware automatically.",Kitchen Appliance,"Used to clean dishes, utensils, and cookware automatically.",Indoor,No,Large
+Display Cabinet,A glass-enclosed cabinet used to showcase decorative items or collections.,Furniture,Used to showcase decorative items or collections.,Indoor,No,Medium
+Dog Crate,"An enclosed space designed for housing dogs, often used for training or travel.",Pet Supplies,Used for housing and training dogs.,Both,Yes,Medium
+Dollhouse,"A miniature house used as a toy, often designed for children to play with small furniture and figures.",Toy,Designed for children to play with small furniture and figures.,Indoor,Yes,Small
+Door,A movable barrier used to close off an entrance or exit in a building or room.,Building Material,Used to close off an entrance or exit.,Both,No,Large
+Double Wall Oven,"A kitchen appliance with two stacked ovens, allowing simultaneous cooking at different temperatures.",Kitchen Appliance,Used for cooking multiple dishes simultaneously.,Indoor,No,Large
+Dresser,"A furniture piece with multiple drawers, used for storing clothes or personal items.",Furniture,Used for storing clothes or personal items.,Indoor,No,Large
+Dresser With Mirror,A dresser featuring an attached or matching mirror for grooming or dressing.,Furniture,Used for grooming or dressing.,Indoor,No,Large
+Drill Press,"A machine tool used to drill precise holes in materials, often mounted on a stand or workbench.",Tool,Used to drill precise holes in materials.,Indoor,No,Large
+Drum Set,A collection of drums and cymbals arranged for a drummer to play as a single instrument.,Musical Instrument,Used for playing music.,Indoor,No,Large
+Dry Sink,"A vintage-style cabinet with a recessed area for a washbasin, often used for decorative purposes.",Furniture,Used for decorative purposes.,Indoor,No,Medium
+Drying Rack,"A rack used for air-drying clothes, often foldable for storage.",Furniture,Used for air-drying clothes.,Both,Yes,Medium
+Drywall,"A construction material made of gypsum board, used to create walls and ceilings.",Construction Material,Used to create walls and ceilings.,Indoor,No,Large
+Dumbbell,"A short bar with weights on both ends, used for strength training exercises.",Fitness Equipment,Used for strength training exercises.,Both,Yes,Medium
+Electric Blanket,"A blanket with integrated heating wires, used to provide warmth.",Home Appliance,Used to provide warmth.,Indoor,Yes,Medium
+Electric Dryer,A household appliance used to dry clothes by circulating heated air.,Home Appliance,Used to dry clothes.,Indoor,No,Large
+Electric Fireplace,"A heater designed to mimic the appearance of a traditional fireplace, often with LED flames.",Electronics,Used to provide heating and mimic a traditional fireplace.,Indoor,Yes,Medium
+Electric Hot Plate,A portable electric cooking surface used for heating or cooking food.,Kitchen Appliance,Used for heating or cooking food.,Indoor,Yes,Small
+Electric Recliner,"A motorized chair that reclines for comfort, often operated with a remote.",Furniture,Used for comfortable seating and reclining.,Indoor,No,Large
+Electric Scooter,"A motorized scooter powered by electricity, used for personal transportation.",Electronics,Used for personal transportation.,Outdoor,Yes,Medium
+Electric Wheelchair,A motorized wheelchair designed to assist people with mobility challenges.,Medical Equipment,Assist people with mobility challenges.,Both,Yes,Medium
+End Table,"A small table placed next to a sofa or chair, often used for holding lamps or personal items.",Furniture,Used for holding lamps or personal items.,Indoor,Yes,Small
+Engine,A mechanical device that converts fuel or electricity into power for driving machines or vehicles.,Machinery,Converts fuel or electricity into power for driving machines or vehicles.,Both,No,Large
+Entertainment Center,"A furniture piece designed to house TVs, media players, and other electronics.",Furniture,"Designed to house TVs, media players, and other electronics.",Indoor,No,Large
+Exercise Machine,"A device designed for physical workouts, such as treadmills or elliptical machines.",Fitness Equipment,Designed for physical workouts.,Indoor,No,Large
+Exercise Mat,"A padded mat used for floor exercises or yoga, providing cushioning and grip.",Fitness Equipment,Used for floor exercises or yoga.,Indoor,Yes,Medium
+Fax Machine,An office device used for sending and receiving documents via telephone lines.,Office Equipment,Used for sending and receiving documents via telephone lines.,Indoor,No,Medium
+Fence,"A barrier made of wood, metal, or other materials, used to enclose or divide spaces.",Outdoor Equipment,Used to enclose or divide spaces.,Outdoor,No,Large
+Filing Cabinet,"A storage unit with drawers, used to organize and store documents.",Furniture,Used to organize and store documents.,Indoor,No,Medium
+Fire Pit,"A structure designed for outdoor fires, often used for warmth or cooking.",Outdoor Equipment,Used for warmth or cooking.,Outdoor,No,Large
+Floor Fan,A portable fan placed on the floor to circulate air and provide cooling.,Electronics,To circulate air and provide cooling.,Indoor,Yes,Medium
+Floor Lamp,A tall lamp designed to stand on the floor and provide ambient lighting.,Furniture,Provides ambient lighting.,Indoor,No,Large
+Flooring,"A surface covering for floors, such as wood, tile, or carpet.",Home Improvement,Used to cover floors.,Indoor,No,Large
+Folding Bed,"A portable bed that can be folded for easy storage, often used for guests.",Furniture,Used for guests.,Indoor,Yes,Medium
+Folding Chair,"A lightweight, collapsible chair, commonly used for events or extra seating.",Furniture,Used for events or extra seating.,Both,Yes,Medium
+Folding Closet Door,"A door that folds in sections, used for closets or small spaces.",Furniture,Used for closets or small spaces.,Indoor,No,Medium
+Folding Table,A portable table that can be folded for compact storage and transport.,Furniture,Used for providing a surface for various activities.,Both,Yes,Medium
+Food Processor,"A kitchen appliance used to chop, slice, and mix food ingredients quickly.",Kitchen Appliance,"Used to chop, slice, and mix food ingredients quickly.",Indoor,Yes,Medium
+Foosball Table,"A game table designed for playing foosball, where players control rods to move miniature figures.",Game Table,Used for playing foosball.,Indoor,No,Large
+Foot Rest,A small piece of furniture designed to support feet while sitting.,Furniture,Supports feet while sitting.,Indoor,Yes,Small
+Footstool,A low stool used to rest feet or as a small seat.,Furniture,Used to rest feet or as a small seat.,Indoor,Yes,Small
+Fountain,"A decorative structure that circulates water, often used outdoors or as a centerpiece.",Decor,Used as a decorative water feature.,Both,No,Large
+Framed Art,"Artwork, such as paintings or prints, enclosed in a decorative frame for display.",Home Decor,Used for display and decoration.,Indoor,No,Medium
+Futon,A versatile piece of furniture that serves as both a sofa and a bed.,Furniture,Used as both a sofa and a bed.,Indoor,Yes,Medium
+Gaming Chair,"A comfortable, ergonomic chair designed for extended gaming sessions.",Furniture,Designed for extended gaming sessions.,Indoor,No,Large
+Gaming Console,"A device used for playing video games, such as PlayStation or Xbox.",Electronics,A device used for playing video games.,Indoor,No,Medium
+Garage Door,"A large door used to secure the entrance to a garage, often operated manually or by a motor.",Home Improvement,Used to secure the entrance to a garage.,Outdoor,No,Large
+Garden Hose,A flexible tube used to deliver water for gardening or outdoor cleaning.,Gardening Tool,Used to deliver water for gardening or outdoor cleaning.,Outdoor,Yes,Medium
+Gas Dryer,"A household appliance powered by gas, used to dry clothes efficiently.",Home Appliance,Used to dry clothes efficiently.,Indoor,No,Large
+Gas Fireplace,"A fireplace powered by natural gas or propane, providing warmth and ambiance.",Home Appliance,Provides warmth and ambiance.,Indoor,No,Medium
+Gas Range,"A kitchen stove that uses gas to cook food, often with multiple burners and an oven.",Kitchen Appliance,Used to cook food.,Indoor,No,Large
+Gas Stovetop,"A cooking surface powered by gas, used for boiling, frying, and sautéing.",Kitchen Appliance,"Used for boiling, frying, and sautéing.",Indoor,No,Medium
+Glider Sofa,"A sofa with a gliding motion, designed for comfort and relaxation.",Furniture,Designed for comfort and relaxation.,Indoor,No,Large
+Globe,"A spherical representation of Earth, often used for educational or decorative purposes.",Educational,Used for educational or decorative purposes.,Indoor,Yes,Medium
+Golf Club,"A tool used in golf to hit the ball, available in various designs for different shots.",Sports Equipment,Used to hit the ball in golf.,Outdoor,Yes,Medium
+Grandmother's/Grandfather's Clock,"A tall, freestanding clock with a pendulum, often a family heirloom.",Furniture,Used to keep time and as a decorative piece.,Indoor,No,Large
+Guitar,"A stringed musical instrument, typically used for playing melodies and chords.",Musical Instrument,Used for playing melodies and chords.,Both,Yes,Medium
+Gun Cabinet,A secure cabinet designed for storing firearms and ammunition.,Furniture,Designed for storing firearms and ammunition.,Indoor,No,Large
+Hammock,"A hanging bed made of fabric or netting, suspended between two points for relaxation.",Furniture,Used for relaxation.,Outdoor,Yes,Medium
+Hand Saw,"A manual tool with a serrated blade, used for cutting wood or other materials.",Tool,Used for cutting wood or other materials.,Both,Yes,Medium
+Handicapped Ramp,A sloped surface designed for wheelchair access or mobility assistance.,Accessibility Equipment,Designed for wheelchair access or mobility assistance.,Both,Yes,Medium
+Hanging Rack,"A structure used for hanging clothes, tools, or other items.",Furniture,"Used for hanging clothes, tools, or other items.",Both,Yes,Medium
+High Chair,"A tall chair for babies or toddlers, with a tray for feeding.",Furniture,Used for feeding babies or toddlers.,Indoor,No,Medium
+Hospital Bed,"A specialized bed with adjustable sections, used in medical settings or home care.",Furniture,Used in medical settings or home care.,Indoor,Yes,Large
+Hoyer Lift,A mechanical device used to lift and transfer patients with limited mobility.,Medical Equipment,Used to lift and transfer patients with limited mobility.,Indoor,Yes,Large
+Humidifier / Dehumidifier,A device used to add or remove moisture from the air to improve comfort and health.,Home Appliance,Used to control air moisture levels.,Indoor,Yes,Medium
+Hutch,"A furniture piece with shelves or cabinets, often used in dining rooms or offices.",Furniture,Used for storage in dining rooms or offices.,Indoor,No,Large
+Ice Maker,"A machine that produces ice cubes or crushed ice, often built into refrigerators.",Kitchen Appliance,Produces ice cubes or crushed ice.,Indoor,No,Medium
+Ironing Board,"A flat, padded surface used for ironing clothes, often foldable for storage.",Household,Used for ironing clothes.,Indoor,Yes,Medium
+Jacuzzi,A large tub with jets that create bubbles for relaxation and hydrotherapy.,Bathroom Appliance,Used for relaxation and hydrotherapy.,Indoor,No,Large
+Kayak,"A narrow watercraft propelled with a double-bladed paddle, used for recreation or sport.",Watercraft,Used for recreation or sport.,Outdoor,Yes,Medium
+Kid's Electric Ride on Car,A battery-powered miniature car designed for children to drive and enjoy.,Toys,Designed for children to drive and enjoy.,Outdoor,No,Medium
+Kids Gymnastic Hanging Bar,"A bar designed for children to practice gymnastics, often adjustable in height.",Sports Equipment,A bar for children to practice gymnastics.,Indoor,Yes,Medium
+Kitchen Cart,"A portable cart with storage and a work surface, used for additional kitchen space.",Furniture,Used for additional kitchen space.,Indoor,Yes,Medium
+Kitchen Chair,"A chair designed for use at a kitchen table, often lightweight and durable.",Furniture,Used at a kitchen table.,Indoor,Yes,Medium
+Kitchen Hood,"A ventilation device installed above a stovetop to remove smoke, heat, and odors.",Kitchen Appliance,"Used to remove smoke, heat, and odors from cooking.",Indoor,No,Medium
+Kitchen Island,"A freestanding counter in the kitchen, often used for food preparation and storage.",Furniture,Used for food preparation and storage.,Indoor,No,Large
+Kitchen Rack,"A storage rack used to organize kitchen items like pots, pans, or spices.",Furniture,Used to organize kitchen items.,Indoor,Yes,Medium
+Kitchen Range,A kitchen appliance combining a stovetop and oven for cooking and baking.,Kitchen Appliance,Used for cooking and baking.,Indoor,No,Large
+Kitchen Sink,"A basin installed in the kitchen, used for washing dishes and food.",Kitchen Fixture,Used for washing dishes and food.,Indoor,No,Medium
+Kitchen Table,"A table used for dining or food preparation, typically located in the kitchen.",Furniture,Used for dining or food preparation.,Indoor,No,Medium
+Ladder,"A portable structure with steps or rungs, used for climbing to reach higher areas.",Tool,Used for climbing to reach higher areas.,Both,Yes,Medium
+Laminate Countertop,"A durable, cost-effective countertop made of laminated material, often used in kitchens or bathrooms.",Furniture,Primarily used in kitchens or bathrooms.,Indoor,No,Large
+Lamp,"A lighting fixture, often portable, used for task or accent lighting.",Lighting,Used for task or accent lighting.,Indoor,Yes,Medium
+Lamp Shades,Covers for lightbulbs that diffuse light and add decorative flair.,Home Decor,Used to diffuse light and add decorative flair.,Indoor,Yes,Medium
+Laptop,"A portable computer with an integrated screen, keyboard, and trackpad.",Electronics,Used for computing tasks.,Indoor,Yes,Medium
+Laundry Basket / Hamper,A container used for holding and transporting dirty laundry.,Home Organization,Used for holding and transporting dirty laundry.,Indoor,Yes,Medium
+Push Lawn Mower,"A machine used to cut grass, often powered by gas, electricity, or manual effort.",Garden Equipment,Used to cut grass.,Outdoor,Yes,Medium
+Leaf Blower,A device that uses air to blow leaves and debris off lawns or driveways.,Garden Tool,Used to blow leaves and debris off lawns or driveways.,Outdoor,Yes,Medium
+Linen Cabinet,"A storage cabinet for towels, sheets, and other linens, often located in bathrooms or closets.",Furniture,"Used for storing towels, sheets, and other linens.",Indoor,No,Medium
+Litter Box,"A container filled with litter for pets, such as cats, to use as a toilet.",Pet Supplies,A toilet for pets like cats.,Indoor,Yes,Medium
+Living Room Chair,A comfortable chair designed for relaxation in the living room.,Furniture,Designed for relaxation in the living room.,Indoor,No,Medium
+Loft Bed,A raised bed frame with space underneath for storage or other furniture.,Furniture,Used for sleeping with additional space for storage.,Indoor,No,Large
+Loom,"A tool used for weaving fabric or textiles, often manually operated.",Craft Tool,Used for weaving fabric or textiles.,Indoor,No,Large
+Lounge Chair,"A long, reclining chair designed for relaxation, often used outdoors or poolside.",Furniture,Designed for relaxation.,Outdoor,Yes,Large
+Loveseat,A small sofa designed to seat two people comfortably.,Furniture,Designed to seat two people comfortably.,Indoor,No,Small
+Magazine Rack,"A storage rack used for organizing magazines, newspapers, or books.",Furniture,"Used for organizing magazines, newspapers, or books.",Indoor,Yes,Medium
+Makeup Table,"A table with a mirror and storage, used for applying makeup and grooming.",Furniture,Used for applying makeup and grooming.,Indoor,No,Medium
+Martial Arts Training Dummy,A practice dummy used for martial arts training and striking techniques.,Fitness Equipment,Used for martial arts training and striking techniques.,Indoor,No,Medium
+Massage Chair,"A chair equipped with mechanisms to provide massages, often with adjustable settings.",Furniture,Primarily used for providing massages.,Indoor,No,Large
+Massage Table,"A portable or stationary table designed for massages, with cushioning for comfort.",Furniture,Designed for massages.,Indoor,Yes,Medium
+Mattress,"A cushioned surface for sleeping, often placed on a bed frame.",Furniture,A surface for sleeping.,Indoor,No,Large
+Mattress Topper,An additional layer of cushioning placed on top of a mattress for added comfort.,Furniture,Provides added comfort to a mattress.,Indoor,Yes,Medium
+Medicine Cabinet,"A wall-mounted cabinet used to store medicines and toiletries, often with a mirror.",Furniture,Used to store medicines and toiletries.,Indoor,No,Medium
+Metal Awning,"A durable, metal structure installed over windows or doors for shade or protection.",Outdoor Structure,Provides shade or protection over windows or doors.,Outdoor,No,Large
+Metal Cabinet,"A cabinet made of metal, used for secure storage of tools or equipment.",Furniture,Used for secure storage of tools or equipment.,Indoor,No,Medium
+Metal End Table,"A small metal table placed beside furniture, often used for lamps or decor.",Furniture,Used for lamps or decor.,Indoor,Yes,Small
+Metal Locker,"A metal storage unit with lockable compartments, often used in schools or gyms.",Furniture,Used for storing items securely.,Indoor,No,Large
+Microwave,A kitchen appliance used to heat or cook food quickly using microwave radiation.,Kitchen Appliance,Used to heat or cook food quickly.,Indoor,No,Medium
+Microwave cart,A mobile cart designed to hold a microwave and provide additional kitchen storage.,Furniture,Designed to hold a microwave and provide additional kitchen storage.,Indoor,Yes,Medium
+Mini Fridge,A compact refrigerator used for storing beverages or small amounts of food.,Kitchen Appliance,Used for storing beverages or small amounts of food.,Indoor,Yes,Small
+Mirror,"A reflective surface, often framed, used for grooming or decoration.",Home Decor,Used for grooming or decoration.,Indoor,Yes,Medium
+Modern TV,A flat-screen television with advanced features like smart connectivity or 4K resolution.,Electronics,Used for watching television programs and streaming content.,Indoor,No,Large
+Nightstand,"A small table or cabinet placed next to a bed, used to hold personal items.",Furniture,Used to hold personal items next to a bed.,Indoor,Yes,Small
+Office Chair,"A chair designed for use at a desk, often ergonomic and adjustable for comfort.",Furniture,Designed for use at a desk.,Indoor,Yes,Medium
+Office Table,"A table used in office settings for meetings, work, or collaborative tasks.",Furniture,"Used in office settings for meetings, work, or collaborative tasks.",Indoor,No,Large
+Organ,A keyboard musical instrument that produces sound through pipes or electronic means.,Musical Instrument,Used for playing music.,Indoor,No,Large
+Ottoman,"A padded footstool or seat, often with storage inside.",Furniture,Used as a footstool or seat with storage.,Indoor,Yes,Medium
+Outdoor Chair,A weather-resistant chair designed for outdoor seating and relaxation.,Furniture,Designed for outdoor seating and relaxation.,Outdoor,Yes,Medium
+Outdoor Dining Table,"A table designed for dining outdoors, often made of durable materials.",Furniture,Designed for dining outdoors.,Outdoor,No,Large
+Outdoor Rug,"A rug designed for use in outdoor spaces, resistant to weather and moisture.",Home Decor,A rug designed for use in outdoor spaces.,Outdoor,Yes,Medium
+Outdoor Umbrella,"A large, weather-resistant umbrella used to provide shade in outdoor spaces.",Outdoor Equipment,Used to provide shade in outdoor spaces.,Outdoor,Yes,Large
+Oven,"A kitchen appliance used for baking, roasting, and cooking food.",Kitchen Appliance,"Used for baking, roasting, and cooking food.",Indoor,No,Large
+Pair of Crutches,Mobility aids designed to help individuals walk by providing support under the arms.,Mobility Aid,To help individuals walk by providing support under the arms.,Both,Yes,Medium
+Paper Shredder,A device used to cut paper into small pieces for secure disposal.,Office Equipment,Used to cut paper into small pieces for secure disposal.,Indoor,Yes,Medium
+Particle Board,A low-cost engineered wood product made from compressed wood chips and resin.,Building Material,Used for making furniture and cabinetry.,Indoor,No,Large
+Pedicure Chair,"A chair equipped with a footrest and basin, used for pedicure services.",Furniture,Used for pedicure services.,Indoor,No,Large
+Piano,A large keyboard instrument that produces sound by striking strings with hammers.,Musical Instrument,Used for playing music.,Indoor,No,Large
+Piano Bench,"A bench designed for seating at a piano, often adjustable and cushioned.",Furniture,Seating at a piano.,Indoor,Yes,Medium
+Picnic table,"A sturdy outdoor table with attached benches, commonly used for dining and gatherings.",Furniture,Used for dining and gatherings.,Outdoor,No,Large
+Pillow,"A soft cushion used for head or back support, typically on beds or sofas.",Furniture,Used for head or back support.,Indoor,Yes,Medium
+Ping Pong Table,A table with a net used for playing table tennis.,Sports Equipment,Used for playing table tennis.,Both,Yes,Large
+Pitchfork,"A tool with long tines, used for lifting and moving hay or other materials.",Gardening Tool,Used for lifting and moving hay or other materials.,Outdoor,Yes,Large
+Planer,A woodworking tool used to create flat surfaces and smooth out wooden boards.,Tool,Used to create flat surfaces and smooth out wooden boards.,Indoor,Yes,Medium
+Plant Stand,A small table or pedestal designed to hold and display potted plants.,Furniture,Designed to hold and display potted plants.,Both,Yes,Small
+Plastic Chair,"A lightweight, stackable chair made from molded plastic, often used outdoors.",Furniture,Used for seating.,Outdoor,Yes,Medium
+Plastic Playhouse,"A small, plastic structure designed for children to play in, often resembling a house.",Toys,Designed for children to play in.,Both,Yes,Small
+Plastic Shelving,"Durable, lightweight shelving made from plastic, used for storage.",Furniture,Used for storage.,Both,Yes,Medium
+Plywood,A versatile construction material made of thin layers of wood veneer glued together.,Construction Material,Used for building and construction.,Both,No,Large
+Poker Table,"A table designed specifically for playing poker, often with a padded surface and cup holders.",Furniture,Designed for playing poker.,Indoor,No,Large
+Pool Table,"A game table used for playing billiards or pool, featuring a felt-covered surface.",Furniture,Used for playing billiards or pool.,Indoor,No,Large
+Poolside Loungers,"Reclining chairs designed for relaxation by a pool, often adjustable and weather-resistant.",Furniture,Designed for relaxation by a pool.,Outdoor,Yes,Large
+Potted Plant,"A plant grown in a container, often used indoors or on patios for decoration.",Home Decor,Used for decoration.,Both,Yes,Medium
+Power Saw,"An electric or gas-powered saw used for cutting materials like wood, metal, or concrete.",Tools,"Used for cutting materials like wood, metal, or concrete.",Both,Yes,Medium
+Printer / Scanner,A device that prints documents and images and can also scan physical documents into digital formats.,Electronics,Used for printing and scanning documents.,Indoor,No,Medium
+Printer Stand,A small stand or table designed to hold a printer and provide storage for supplies.,Furniture,Designed to hold a printer and provide storage for supplies.,Indoor,Yes,Small
+Projector Screen,"A flat, reflective surface used to display images or videos from a projector.",Electronics,Used to display images or videos from a projector.,Indoor,Yes,Large
+Punching Bag,A heavy bag used for practicing punches and kicks in combat sports or fitness training.,Fitness Equipment,Used for practicing punches and kicks.,Both,No,Large
+Push Scooter,"A lightweight, two-wheeled scooter propelled by pushing with one foot.",Outdoor Recreation,Used for personal transportation by pushing with one foot.,Outdoor,Yes,Medium
+Quilt Rack,A stand used to hang and display quilts or blankets.,Furniture,Used to hang and display quilts or blankets.,Indoor,Yes,Medium
+Radio,A device that receives and plays audio broadcasts transmitted over radio waves.,Electronics,Used to receive and play audio broadcasts.,Both,Yes,Medium
+Railing,"A protective barrier installed on stairs, balconies, or decks for safety.",Home Improvement,"Installed for safety on stairs, balconies, or decks.",Both,No,Large
+Recliner Chair,A comfortable chair with an adjustable backrest and footrest for relaxation.,Furniture,Used for relaxation.,Indoor,No,Large
+Recliner Couch,"A sofa with built-in reclining seats, offering comfort and versatility.",Furniture,Used for comfortable seating and relaxation.,Indoor,No,Large
+Recliner Loveseat,A two-seat sofa with reclining functionality for added comfort.,Furniture,A comfortable seating option for two people.,Indoor,No,Medium
+Refrigerator,A household appliance used to store and preserve food and beverages by keeping them cold.,Kitchen Appliance,Used to store and preserve food and beverages by keeping them cold.,Indoor,No,Large
+Residential Gas Steam Boiler,A heating system that uses gas to generate steam for warming homes.,Heating System,Used for warming homes.,Indoor,No,Large
+Rice Cooker,A kitchen appliance used to steam and cook rice automatically.,Kitchen Appliance,Used to steam and cook rice automatically.,Indoor,Yes,Medium
+Rocking Chair,A chair with curved legs that allow it to rock back and forth for relaxation.,Furniture,Used for relaxation.,Indoor,No,Medium
+Rocking Horse,"A children’s toy shaped like a horse, mounted on curved rockers for riding.",Toy,For children to ride.,Indoor,Yes,Medium
+Rolling Cabinet,A cabinet with wheels for easy mobility and storage.,Furniture,Used for storage and mobility.,Indoor,Yes,Medium
+Rolling Chair,"A chair with wheels, often used in offices for ease of movement.",Furniture,Used in offices for ease of movement.,Indoor,Yes,Medium
+Rolling Tool Box,A mobile toolbox with compartments for organizing and storing tools.,Tools,Organizing and storing tools.,Both,Yes,Medium
+Room Divider,A freestanding screen or panel used to divide a room into separate spaces.,Furniture,Used to divide a room into separate spaces.,Indoor,Yes,Medium
+Rotisserie Oven,"An oven with a rotating spit, used for evenly roasting meat.",Kitchen Appliance,Used for evenly roasting meat.,Indoor,No,Medium
+Rug,"A decorative fabric floor covering, often used to add comfort or style to a room.",Home Decor,Used to add comfort or style to a room.,Indoor,Yes,Medium
+Safe,A secure storage box designed to protect valuables from theft or damage.,Security,To protect valuables from theft or damage.,Indoor,No,Medium
+Scale,"A device used to measure weight, often found in bathrooms or kitchens.",Home Appliance,Used to measure weight.,Indoor,Yes,Small
+Screen Door,A door with a mesh screen to allow air circulation while keeping insects out.,Home Improvement,To allow air circulation while keeping insects out.,Outdoor,No,Large
+Sculpture,"A three-dimensional work of art, often used for decoration.",Art,Used for decoration.,Both,No,Medium
+Sewing Machine,"A machine used to stitch fabrics together for clothing, crafts, or repairs.",Craft Appliance,"Used to stitch fabrics together for clothing, crafts, or repairs.",Indoor,Yes,Medium
+Sewing table,"A table designed for sewing, often with built-in storage for supplies and a space for a sewing machine.",Furniture,A table designed for sewing.,Indoor,No,Medium
+Shed,"A small outdoor structure used for storage, typically for tools, equipment, or gardening supplies.",Outdoor Structure,"Used for storage of tools, equipment, or gardening supplies.",Outdoor,No,Small
+Shelving Unit,"A structure with multiple shelves, used for organizing and storing items.",Furniture,Used for organizing and storing items.,Indoor,No,Medium
+Shoe Rack,"A rack designed to organize and store shoes, often placed near entryways.",Furniture,Organize and store shoes.,Indoor,Yes,Medium
+Shovel,"A tool with a broad blade and handle, used for digging or moving material like soil or snow.",Tool,Used for digging or moving material like soil or snow.,Outdoor,Yes,Medium
+Shower,"A plumbing fixture that sprays water for bathing, typically installed in bathrooms.",Bathroom Fixture,Used for bathing by spraying water.,Indoor,No,Medium
+Shower Base,"The floor structure of a shower, designed to drain water efficiently.",Bathroom Fixture,Used as the floor of a shower to drain water.,Indoor,No,Medium
+Shower Chair,"A waterproof chair used for sitting while showering, often for individuals with mobility challenges.",Furniture,Used for sitting while showering.,Indoor,Yes,Medium
+Shower Door,A glass or plastic door used to enclose a shower and prevent water from splashing outside.,Bathroom Fixture,Used to enclose a shower and prevent water from splashing outside.,Indoor,No,Medium
+Shutter,"A hinged cover for windows, used for privacy, protection, or decorative purposes.",Home Decor,"Used for privacy, protection, or decorative purposes.",Both,No,Medium
+Single Bed Frame,"A bed frame designed to hold a single-size mattress, typically for one person.",Furniture,Designed to hold a single-size mattress.,Indoor,No,Medium
+Single Pull Out Bed,A bed with an additional mattress that pulls out from underneath for extra sleeping space.,Furniture,Provides extra sleeping space.,Indoor,No,Large
+Sink,"A basin used for washing hands, dishes, or other items, found in kitchens or bathrooms.",Furniture,"Used for washing hands, dishes, or other items.",Indoor,No,Medium
+Skis,"Long, flat boards attached to boots, used for gliding over snow in skiing.",Sports Equipment,Used for gliding over snow in skiing.,Outdoor,Yes,Large
+Sleeping Cot,"A lightweight, portable bed often used for camping or temporary sleeping arrangements.",Furniture,Used for camping or temporary sleeping arrangements.,Both,Yes,Medium
+Sleigh Bed,"A bed frame with curved head and footboards, resembling a sled in design.",Furniture,Primarily used for sleeping.,Indoor,No,Large
+Sliding Door,A door that opens and closes by sliding horizontally along a track.,Furniture,Used for providing access by sliding open or closed.,Both,No,Large
+Smoker,A cooking device designed to slow-cook and flavor food using smoke.,Kitchen Appliance,Used to slow-cook and flavor food using smoke.,Outdoor,No,Large
+Snow Blower,A machine that removes snow by blowing it off driveways or sidewalks.,Outdoor Equipment,Used for removing snow from driveways or sidewalks.,Outdoor,Yes,Large
+Snowboard,"A board used for sliding downhill on snow, typically while standing.",Sports Equipment,Used for sliding downhill on snow.,Outdoor,Yes,Large
+Sofa,"A long, upholstered seat designed for multiple people, often used in living rooms.",Furniture,Designed for seating multiple people.,Indoor,No,Large
+Sofa Bed,"A sofa that can be converted into a bed, offering dual functionality.",Furniture,Used for sitting and sleeping.,Indoor,No,Large
+Sound Bar,A slim speaker designed to enhance TV audio quality.,Electronics,Enhancing TV audio quality.,Indoor,Yes,Medium
+Sound Speaker,"A device that produces audio from a connected source, used for music or sound systems.",Electronics,Produces audio from a connected source.,Both,Yes,Medium
+Sound System,"A collection of audio equipment, such as speakers and amplifiers, used for high-quality sound.",Electronics,Used for high-quality sound.,Indoor,No,Large
+Space Heater,A portable heater used to warm individual rooms or small areas.,Electronics,Used to warm individual rooms or small areas.,Indoor,Yes,Small
+Square Dining Table,"A table with a square top, used for dining or gatherings.",Furniture,Used for dining or gatherings.,Indoor,No,Medium
+Square Table,"A table with a square surface, often used for dining, games, or work.",Furniture,"Used for dining, games, or work.",Indoor,No,Medium
+Stackable Chair,A chair designed to be stacked on top of others for easy storage.,Furniture,Used for seating and easy storage.,Both,Yes,Medium
+Stackable Washer,"A washing machine designed to be stacked with a dryer, saving space in laundry areas.",Home Appliance,Used for washing clothes.,Indoor,No,Medium
+Stair Climbing Chair,A motorized chair installed on stairs to assist people with mobility in ascending or descending.,Mobility Aid,To assist people with mobility in ascending or descending stairs.,Indoor,No,Large
+Stand Up Copy Machine,"A freestanding copy machine, often used in offices for duplicating documents.",Office Equipment,Used for duplicating documents.,Indoor,No,Large
+Standalone chairs,"Individual chairs not attached to other furniture, often used for seating in various settings.",Furniture,Used for seating in various settings.,Both,Yes,Medium
+Standing Desk,"A desk designed for use while standing, often adjustable for ergonomic purposes.",Furniture,Designed for use while standing.,Indoor,No,Medium
+Stationary Bike,"An exercise machine that mimics cycling, used for cardio workouts.",Fitness Equipment,Used for cardio workouts.,Indoor,No,Medium
+Stationary Tool Machine,"A fixed tool, such as a drill press or lathe, used in workshops for precise tasks.",Workshop Tool,Used in workshops for precise tasks.,Indoor,No,Large
+Statue,"A three-dimensional sculpture representing a person, animal, or abstract form, often decorative.",Decor,Used for decoration.,Both,No,Medium
+Steam Cleaner,"A device that uses steam to clean and sanitize surfaces, such as carpets or floors.",Cleaning Appliance,Used to clean and sanitize surfaces.,Indoor,Yes,Medium
+Step Ladder,"A portable ladder with steps, often self-supporting for indoor or outdoor use.",Tool,Used for reaching high places.,Both,Yes,Medium
+Stepper Exercise Machine,An exercise machine that simulates stair climbing for cardio and leg strength.,Fitness Equipment,Used for cardio and leg strength exercises.,Indoor,Yes,Medium
+Stereo,An audio system designed to play music or other audio with high-quality sound.,Electronics,Used to play music or other audio.,Indoor,No,Medium
+Stereo Cabinet,A cabinet designed to house stereo equipment and accessories.,Furniture,Designed to house stereo equipment and accessories.,Indoor,No,Medium
+Stereo Woofer,A speaker component designed to produce low-frequency sounds or bass.,Electronics,Designed to produce low-frequency sounds or bass.,Indoor,No,Large
+Stool,"A backless seat, often used at counters or bars.",Furniture,Used at counters or bars.,Indoor,Yes,Medium
+Storage Basket,A container used for organizing and storing household items.,Storage,Used for organizing and storing household items.,Indoor,Yes,Medium
+Storage Bed,"A bed frame with built-in storage compartments, often under the mattress.",Furniture,Used for sleeping and storage.,Indoor,No,Large
+Storage Bench,"A bench with hidden storage inside, often used in entryways or bedrooms.",Furniture,Used for seating and storage in entryways or bedrooms.,Indoor,No,Medium
+Storage Cabinet,A cabinet designed for organizing and storing household or office items.,Furniture,Organizing and storing household or office items.,Indoor,No,Medium
+Storage Ottoman,"A cushioned ottoman with internal storage space, often used in living rooms.",Furniture,Used for storage and seating in living rooms.,Indoor,Yes,Medium
+Storage Rack,A shelving unit used for organizing and storing items in homes or garages.,Furniture,Used for organizing and storing items.,Both,No,Large
+Storage Tote,"A durable plastic or fabric container with a lid, used for organizing and storing items.",Storage,Used for organizing and storing items.,Both,Yes,Medium
+Storage Trunk,"A large, durable box, often with a locking lid, used for storage or travel.",Furniture,Used for storage or travel.,Both,Yes,Large
+Stove,"A kitchen appliance with burners for cooking food, often paired with an oven.",Kitchen Appliance,Used for cooking food.,Indoor,No,Large
+Stroller,A wheeled device used for transporting infants or toddlers.,Baby Gear,Used for transporting infants or toddlers.,Both,Yes,Medium
+Wooden Stud,A vertical wood beam used in the framing of walls or structures.,Building Material,Used in the framing of walls or structures.,Both,No,Large
+Suitcase,"A portable case with handles, used for carrying clothing and personal items during travel.",Luggage,Used for carrying clothing and personal items during travel.,Both,Yes,Medium
+Swing,"A suspended seat that moves back and forth, often found in playgrounds or backyards.",Outdoor Recreation,Used for swinging back and forth.,Outdoor,No,Large
+Table Lamp,"A small lamp designed to sit on a table or desk, used for localized lighting.",Furniture,Used for localized lighting.,Indoor,Yes,Small
+Tablet,"A portable electronic device with a touchscreen, used for browsing, reading, and apps.",Electronics,"Used for browsing, reading, and apps.",Indoor,Yes,Medium
+Tea Cart,"A small, wheeled cart used to serve tea, snacks, or beverages.",Furniture,"Used to serve tea, snacks, or beverages.",Indoor,Yes,Small
+Telescope,An optical instrument used to observe distant objects like stars and planets.,Optics,Used to observe distant objects like stars and planets.,Both,Yes,Medium
+Tent,"A portable shelter made of fabric, supported by poles, used for camping or outdoor activities.",Outdoor Equipment,Used for camping or outdoor activities.,Outdoor,Yes,Medium
+Tire,"A rubber covering that fits around a wheel, commonly used on vehicles.",Automotive,Used on vehicles to enable movement.,Outdoor,Yes,Large
+Toaster,A kitchen appliance used for toasting bread or bagels.,Kitchen Appliance,Used for toasting bread or bagels.,Indoor,Yes,Small
+Toaster Oven,"A compact oven used for toasting, baking, or reheating food.",Kitchen Appliance,"Used for toasting, baking, or reheating food.",Indoor,Yes,Small
+Toddler Bed,A small bed designed for young children transitioning from a crib.,Furniture,Used for young children transitioning from a crib.,Indoor,No,Small
+Toilet,"A plumbing fixture used for disposing of human waste, typically with a flushing mechanism.",Bathroom Fixture,Used for disposing of human waste.,Indoor,No,Medium
+Toilet Cabinet,"A cabinet designed to store toiletries, often installed above or around a toilet.",Furniture,To store toiletries.,Indoor,No,Medium
+Tool Box,"A container used to organize and carry tools, often with compartments or trays.",Tool Storage,Used to organize and carry tools.,Both,Yes,Medium
+Trailer,"A vehicle designed to be pulled by another vehicle, often used for transporting goods or equipment.",Vehicle,Used for transporting goods or equipment.,Outdoor,Yes,Large
+Trampoline,"A springy mat attached to a frame, used for jumping or gymnastics.",Recreational Equipment,Used for jumping or gymnastics.,Outdoor,No,Large
+Trash Can,A container used to collect and dispose of garbage or waste.,Household Item,Used to collect and dispose of garbage or waste.,Both,Yes,Medium
+Tray,"A flat, portable surface with raised edges, used for carrying or serving items.",Kitchenware,Used for carrying or serving items.,Both,Yes,Medium
+Treadmill,"An exercise machine with a moving belt, used for walking or running in place.",Exercise Equipment,Used for walking or running in place.,Indoor,No,Large
+Trundle Bed,"A low bed stored underneath another bed, pulled out for additional sleeping space.",Furniture,Provides additional sleeping space.,Indoor,No,Medium
+Tube TV,An older television model with a cathode-ray tube screen.,Electronics,Used for watching television broadcasts.,Indoor,No,Medium
+TV Console,A furniture piece designed to support and house a television and media equipment.,Furniture,To support and house a television and media equipment.,Indoor,No,Large
+TV Stand,A stand used to hold a television and sometimes store media accessories.,Furniture,Used to hold a television and store media accessories.,Indoor,No,Medium
+TV Tray,"A small, portable table designed for eating or working while sitting on a couch or chair.",Furniture,Designed for eating or working while sitting on a couch or chair.,Indoor,Yes,Small
+TV Wall Mount,A bracket used to secure a television to a wall.,Electronics,Used to secure a television to a wall.,Indoor,No,Medium
+Typewriter,"A mechanical device used for typing text on paper, popular before computers.",Office Equipment,Used for typing text on paper.,Indoor,Yes,Medium
+Umbrella,"A portable device with a collapsible canopy, used for protection from rain or sun.",Accessory,Used for protection from rain or sun.,Outdoor,Yes,Medium
+Upholstered Chair,A chair with a padded fabric or leather covering for added comfort.,Furniture,Used for seating.,Indoor,No,Medium
+Utility Table,"A sturdy, multi-purpose table often used for work or storage.",Furniture,Used for work or storage.,Both,Yes,Medium
+Vacuum,A cleaning device that uses suction to remove dirt and debris from floors or carpets.,Cleaning Appliance,Used to remove dirt and debris from floors or carpets.,Indoor,Yes,Medium
+Vanity,"A small table with a mirror, used for grooming and storing cosmetics.",Furniture,Used for grooming and storing cosmetics.,Indoor,No,Small
+Vanity lights,"Lighting fixtures installed around a mirror, often used in bathrooms or dressing rooms.",Lighting,Used around mirrors in bathrooms or dressing rooms.,Indoor,No,Medium
+Vanity Stool,"A small, cushioned stool designed to be used with a vanity table.",Furniture,Used with a vanity table.,Indoor,Yes,Small
+Vanity Table,"A table with a mirror and storage, used for grooming and makeup.",Furniture,Used for grooming and makeup.,Indoor,No,Medium
+Vase,A container used to hold flowers or as a decorative object.,Decor,Used to hold flowers or as a decorative object.,Indoor,Yes,Medium
+Vending Machine,"A machine that dispenses snacks, beverages, or other items when payment is inserted.",Electronics,Dispenses snacks and beverages.,Indoor,No,Large
+Video Player,"A device used to play video content, such as DVDs, Blu-rays, or VHS tapes.",Electronics,Used to play video content.,Indoor,No,Medium
+Violin,"A stringed musical instrument played with a bow, commonly used in classical music.",Musical Instrument,Played with a bow in classical music.,Indoor,Yes,Medium
+Wagon,"A four-wheeled cart used for carrying goods, children, or other loads.",Transport,Used for carrying goods or children.,Both,Yes,Medium
+Wakeboard,"A board used for wakeboarding, a water sport where the rider is towed behind a boat.",Water Sports Equipment,Used for wakeboarding.,Outdoor,Yes,Medium
+Walker,"A mobility aid with a frame and wheels or feet, used to assist walking.",Mobility Aid,Used to assist walking.,Both,Yes,Medium
+Wall Cabinet,"A storage cabinet mounted on a wall, often used in kitchens or bathrooms.",Furniture,Used for storage in kitchens or bathrooms.,Indoor,No,Medium
+Wall Clock,"A clock designed to be hung on a wall, used for timekeeping and decoration.",Home Decor,Used for timekeeping and decoration.,Indoor,No,Medium
+Wall Sconce,"A light fixture mounted on a wall, often used for ambient or decorative lighting.",Lighting,Used for ambient or decorative lighting.,Indoor,No,Medium
+Wardrobe/Closet,A large storage unit used for hanging clothes and storing personal items.,Furniture,Used for hanging clothes and storing personal items.,Indoor,No,Large
+Washer and Dryer Tower,"A stacked washer and dryer unit, designed to save space in laundry areas.",Home Appliance,Used for washing and drying clothes.,Indoor,No,Large
+Washing Machine,"A household appliance used to wash clothes, typically with various cycle settings.",Household Appliance,Used to wash clothes.,Indoor,No,Large
+Water Cooler,"A device that dispenses cold or hot drinking water, often used in offices or homes.",Appliance,Dispensing cold or hot drinking water.,Indoor,No,Medium
+Water Heater,"A household appliance that heats water for bathing, cooking, or cleaning.",Household Appliance,"Heats water for bathing, cooking, or cleaning.",Indoor,No,Medium
+Weight Bench,A bench designed for weightlifting and strength training exercises.,Fitness Equipment,Designed for weightlifting and strength training exercises.,Indoor,No,Medium
+Wheelbarrow,"A single-wheeled cart with handles, used for carrying heavy or bulky loads.",Garden Tool,Used for carrying heavy or bulky loads.,Outdoor,Yes,Large
+Wheelchair,"A chair with wheels, used by individuals with limited mobility for transportation.",Mobility Aid,Used by individuals with limited mobility for transportation.,Both,Yes,Medium
+White Board,"A smooth, white surface used for writing or drawing with dry-erase markers.",Office Supplies,Used for writing or drawing with dry-erase markers.,Indoor,Yes,Medium
+Wicker Chair,"A chair made of woven wicker or rattan, often used outdoors or in sunrooms.",Furniture,Used for seating.,Both,Yes,Medium
+Wicker Couch,"A couch constructed from wicker or rattan, suitable for indoor or outdoor use.",Furniture,A couch for seating.,Both,No,Large
+Wicker Dining Table,"A dining table made from wicker or rattan, often lightweight and decorative.",Furniture,Used for dining.,Both,Yes,Medium
+Window,"A framed opening in a wall, fitted with glass panes, used for ventilation and light.",Building Material,Used for ventilation and light.,Both,No,Large
+Wine Fridge,A small refrigerator designed to store wine at an optimal temperature.,Kitchen Appliance,Designed to store wine at an optimal temperature.,Indoor,No,Small
+Wing Chair,"A high-backed chair with wing-like side panels, often upholstered for comfort.",Furniture,Primarily used for seating.,Indoor,No,Large
+Wire Shelf,"A shelving unit made of metal wires, used for storage in homes or garages.",Furniture,Used for storage in homes or garages.,Both,Yes,Medium
+Work Bench,"A sturdy table used for woodworking, metalworking, or other crafts and projects.",Furniture,"Used for woodworking, metalworking, or other crafts and projects.",Both,No,Large
+Work Station Cabinet,"A cabinet with a built-in workspace, often used in offices or workshops.",Furniture,Used in offices or workshops.,Indoor,No,Medium
+Yoga Mat,"A padded mat used for yoga or floor exercises, providing cushioning and grip.",Fitness Equipment,Used for yoga or floor exercises.,Indoor,Yes,Medium

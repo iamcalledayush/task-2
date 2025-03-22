@@ -1,0 +1,58 @@
+------Model Evaluation Summary Report (Enriched DB)------
+------------
+Model: all-MiniLM-L12-v2
+  Average Top-1 Similarity: 0.5363
+  Average Weighted Top-5 Similarity: 0.4862
+  Query Coverage (%): 98.60
+  Average Number of Results: 4.82
+  Average Response Time (s): 0.0076
+------------
+Model: infgrad/stella-base-en-v2
+  Average Top-1 Similarity: 0.7313
+  Average Weighted Top-5 Similarity: 0.7105
+  Query Coverage (%): 100.00
+  Average Number of Results: 5.00
+  Average Response Time (s): 0.0209
+------------
+Model: Alibaba-NLP/gte-base-en-v1.5
+  Average Top-1 Similarity: 0.5271
+  Average Weighted Top-5 Similarity: 0.4897
+  Query Coverage (%): 100.00
+  Average Number of Results: 5.00
+  Average Response Time (s): 0.0280
+------------
+Model: nomic-ai/nomic-embed-text-v1.5
+  Average Top-1 Similarity: 0.6952
+  Average Weighted Top-5 Similarity: 0.6670
+  Query Coverage (%): 100.00
+  Average Number of Results: 5.00
+  Average Response Time (s): 0.0457
+------------
+Model: jxm/cde-small-v2
+  Average Top-1 Similarity: 0.5610
+  Average Weighted Top-5 Similarity: 0.5426
+  Query Coverage (%): 100.00
+  Average Number of Results: 5.00
+  Average Response Time (s): 0.0442
+------------
+Model: Alibaba-NLP/gte-large-en-v1.5
+  Average Top-1 Similarity: 0.6871
+  Average Weighted Top-5 Similarity: 0.6551
+  Query Coverage (%): 100.00
+  Average Number of Results: 5.00
+  Average Response Time (s): 0.0823
+------------
+Model: jinaai/jina-embeddings-v3
+  Average Top-1 Similarity: 0.7142
+  Average Weighted Top-5 Similarity: 0.6753
+  Query Coverage (%): 100.00
+  Average Number of Results: 5.00
+  Average Response Time (s): 0.0839
+------------
+Model: BAAI/bge-large-en-v1.5
+  Average Top-1 Similarity: 0.6808
+  Average Weighted Top-5 Similarity: 0.6579
+  Query Coverage (%): 100.00
+  Average Number of Results: 5.00
+  Average Response Time (s): 0.0656
+------------

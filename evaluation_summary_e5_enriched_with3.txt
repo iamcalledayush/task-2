@@ -1,0 +1,9 @@
+------Model Evaluation Summary Report (E5-Large Enriched)------
+------------
+Model: intfloat/e5-large-v2
+  Average Top-1 Similarity: 0.8322
+  Average Weighted Top-5 Similarity: 0.8193
+  Query Coverage (%): 100.00
+  Average Number of Results: 5.00
+  Average Response Time (s): 0.0174
+------------
