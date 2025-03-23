@@ -1,0 +1,9 @@
+------Model Evaluation Summary Report (E5 + Fused Queries)------
+------------
+Model Name: intfloat/e5-large-v2
+Avg Top Similarity: 0.8266
+Avg Weighted Top5 Similarity: 0.8196
+Coverage Percent: 100.0000
+Avg Num Results: 5.0000
+Avg Response Time: 0.0252
+------------

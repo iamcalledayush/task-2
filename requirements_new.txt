@@ -1,0 +1,7 @@
+faiss-cpu
+openai
+numpy
+pandas
+sentence-transformers
+python-dotenv
+gradio

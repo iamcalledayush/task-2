@@ -1,0 +1,2 @@
+model_name,avg_top_similarity,avg_weighted_top5_similarity,coverage_percent,avg_num_results,avg_response_time
+intfloat/e5-large-v2,0.8133038677573204,0.8063579810589552,100.0,5.0,0.023468295812606812
