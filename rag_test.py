@@ -122,4 +122,4 @@ demo = gr.Interface(
     description="Enter a query to see retrieval-augmented responses using E5 embeddings + GPT-4o"
 )
 
-demo.launch()
+demo.launch(share=True, inbrowser=True)
